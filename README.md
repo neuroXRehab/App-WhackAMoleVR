@@ -1,4 +1,4 @@
-# Prototype-WhackAMoleVR
+# Whack-A-Mole VR Prototype for Upper Limb Rehabilitation
 A rehabilitation system for upper limb rehabilitation and spatial neglect in virtual reality.
 Maintained by: Hendrik Knoche, Bastian I. Hougaard, Lars Evald and Iris Brunner.
 
